@@ -2,5 +2,5 @@
   "release": {
     "branches": ["master", "next"]
   },
-  "repositoryUrl": "https://github.com/datjackson1997666/semantic-release.git"
+  "repositoryUrl": "git@github.com:datjackson1997666/semantic-release.git"
 }
